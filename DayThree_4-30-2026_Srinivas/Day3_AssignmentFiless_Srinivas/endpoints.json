@@ -1,0 +1,37 @@
+[
+  {
+    "url": "/auth/login",
+    "method": "POST",
+    "auth": "false"
+  },
+  {
+    "url": "/auth/logout",
+    "method": "POST",
+    "auth": "true"
+  },
+  {
+    "url": "/catalogue",
+    "method": "GET",
+    "auth": "false"
+  },
+  {
+    "url": "/catalogue/{id}",
+    "method": "GET",
+    "auth": "false"
+  },
+  {
+    "url": "/catalogue",
+    "method": "POST",
+    "auth": "true"
+  },
+  {
+    "url": "/reservations",
+    "method": "POST",
+    "auth": "true"
+  },
+  {
+    "url": "/reservations/{id}",
+    "method": "DELETE",
+    "auth": "true"
+  }
+]

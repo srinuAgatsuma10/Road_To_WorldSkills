@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api name="HorizonAPI" version="1.0">
+
+  <!-- Authentication -->
+  <endpoint url="/auth/login"       method="POST"   auth="false" />
+  <endpoint url="/auth/logout"      method="POST"   auth="true"  />
+
+  <!-- Catalogue -->
+  <endpoint url="/catalogue"        method="GET"    auth="false" />
+  <endpoint url="/catalogue/{id}"   method="GET"    auth="false" />
+  <endpoint url="/catalogue"        method="POST"   auth="true"  />
+
+  <!-- Reservations -->
+  <endpoint url="/reservations"     method="POST"   auth="true"  />
+  <endpoint url="/reservations/{id}" method="DELETE" auth="true"  />
+
+</api>

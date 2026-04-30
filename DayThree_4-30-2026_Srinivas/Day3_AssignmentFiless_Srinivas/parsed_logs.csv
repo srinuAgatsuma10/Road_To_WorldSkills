@@ -1,0 +1,6 @@
+date,time,level,service,username
+2026-04-29,08:21:10,ERROR,AuthService,mohit.joshi
+2026-04-29,08:12:03,INFO,AuthService,priya.sharma
+2026-04-29,08:17:22,WARN,SessionManager,anita.desai
+2026-04-29,08:14:55,ERROR,PaymentGateway,ravi.kumar
+2026-04-29,08:25:44,INFO,ReportService,kavitha.nair

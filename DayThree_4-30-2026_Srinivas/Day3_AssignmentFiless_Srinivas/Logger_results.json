@@ -1,0 +1,32 @@
+[
+  {
+    "id": "TC-001",
+    "status": "pass",
+    "duration_ms": 342,
+    "timestamp": "2026-04-30T13:18:33"
+  },
+  {
+    "id": "TC-002",
+    "status": "fail",
+    "duration_ms": 1201,
+    "timestamp": "2026-04-30T13:18:33"
+  },
+  {
+    "id": "TC-003",
+    "status": "pass",
+    "duration_ms": 88,
+    "timestamp": "2026-04-30T13:18:33"
+  },
+  {
+    "id": "TC-004",
+    "status": "pass",
+    "duration_ms": 450,
+    "timestamp": "2026-04-30T13:18:33"
+  },
+  {
+    "id": "TC-005",
+    "status": "fail",
+    "duration_ms": 3002,
+    "timestamp": "2026-04-30T13:18:33"
+  }
+]
